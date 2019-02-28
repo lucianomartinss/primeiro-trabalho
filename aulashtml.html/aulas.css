@@ -1,0 +1,92 @@
+body{
+	
+}
+#imp {
+	text-align: center;
+	background-color:blue;
+	color: black;
+	font-family: arial black;
+	margin: 0;
+	border: 10px groove red;
+	border-radius: 50px;
+	padding: 10px 25px;
+
+}
+#divisao1{
+	width: 720px;
+	/*margin-left: auto;SELETORRRRRRRR
+	margin-right:auto;*/
+	margin: 0 auto;
+
+}
+p{
+	text-align: justify;
+	font-size: 22px;
+	font-family: times new roman;
+	line-height: 1.5;
+}
+blockquote{
+	padding: 16px;
+	border: 10px solid #c2ccca;
+	margin: 0;
+	width: 250px;
+	box-sizing: border-box;
+	border-left-color: #333;
+	border-right-color: #fff;
+}
+h2{
+	font-size: 40px;
+	font-family: times new roman;
+	background-color: green;
+	color: white;
+}
+aside{
+	background-color:green;
+	color: black;
+	/*width:1000px;*/ 
+	height:150px;
+	margin-bottom: 10px; 
+	text-align: center;
+
+}
+ul{
+	list-style-type: none;
+
+}
+footer{
+	background-color:purple; 
+	color:black;
+}
+nav{
+	color: white;
+}
+a{
+	color: white;
+	text-decoration: none; 
+}
+#dif{
+	color: white;
+	font-size: 35px;
+	background-color: green;
+}
+ul li a{
+	color: inherit;
+}
+blockquote, footer, aside,{
+	padding: 20px;
+}
+img{
+	border-radius: 10%;
+}
+#pause{
+	border-bottom: 30px solid red;
+	border-left: 30px solid black;
+	border-right: 30px solid black;
+	border-top: 30px solid green;
+	width: 50px;
+	/*border-radius: 50%;*/
+	/*height: 30px;*/
+
+
+}
+
